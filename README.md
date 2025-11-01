@@ -45,7 +45,7 @@ airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
 
 #### **Run 2 – 59% Accuracy**
 
-![Terminal Output Run 2](Screenshotrun_2.png)
+![Terminal Output Run 2](Screenshot_Run2.png)
 
 ---
 
@@ -55,7 +55,7 @@ Each run generates a confusion matrix visualizing predictions:
 
 #### **Run **
 
-![Confusion Matrix Run](confusion_matrix_run1.png)
+![Confusion Matrix Run](confusion_matrix.png)
 
 
 ---
