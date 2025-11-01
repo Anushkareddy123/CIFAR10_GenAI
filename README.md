@@ -1,5 +1,5 @@
 
-## 🧠 CIFAR-10 Image Classification using GenAI Vision Model
+## CIFAR-10 Image Classification using GenAI Vision Model
 
 
 This project uses a **Generative AI vision-language model** (SoonerAI endpoint) to classify small images from the **CIFAR-10 dataset**.
@@ -58,17 +58,6 @@ Each run generates a confusion matrix visualizing predictions:
 ![Confusion Matrix Run](confusion_matrix.png)
 
 
----
-
-
-
-###  Observations
-
-* GenAI vision models can perform **basic classification** without training, achieving ~60–64% accuracy on CIFAR-10.
-* Misclassifications mostly occur between **visually similar categories**, such as *dog–cat* and *truck–automobile*.
-* Prompt design **significantly affects accuracy**, showing the importance of **prompt engineering** in vision tasks.
-
----
 
 ### How to Run
 
@@ -97,8 +86,3 @@ Each run generates a confusion matrix visualizing predictions:
 ---
 
 
-
-
----
-
-Would you like me to generate the exact `requirements.txt` file for this next (so you can include it in your submission)?
