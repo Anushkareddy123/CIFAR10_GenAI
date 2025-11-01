@@ -41,7 +41,7 @@ airplane, automobile, bird, cat, deer, dog, frog, horse, ship, truck
 ##
 #### **Run 1 – 64% Accuracy**
 
-![Terminal Output Run 1](ss_run1.png)
+![Terminal Output Run 1](Screenshot_Run1.png)
 
 #### **Run 2 – 59% Accuracy**
 
